@@ -2,7 +2,7 @@
 
 **Docker** - контейнизатор приложений
 
-![alt text](image.png)
+![alt text](./images/image.png)
 
 **Сущности докера**:
 
@@ -17,7 +17,7 @@
 Docker_host - Компьютер, на котором установлен докер
 Client - Интерфейс взаимодействия с демоном
 
-![alt text](image-1.png)
+![alt text](./images/image-1.png)
 
 **Где могут храниться образы?** - в различных репозиториях: Docker Hub, Собственный, поднятый на сервере, репозиторий, 
 GitLab Container Registry, Container Registry от Google Cloud, Container Registry от GitHub,
@@ -33,11 +33,11 @@ Amazon ECR, Yandex Container Registry, DigitalOcean Container Registry.
 
 Контейнер строится на основе образа. Образы строятся из слоев.
 
-![alt text](image-2.png)
+![alt text](./images/image-2.png)
 
 Контейнеры изолированы друг от друга
 
-![alt text](image-3.png)
+![alt text](./images/image-3.png)
 
 
 Как поднять контейнер?
